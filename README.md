@@ -93,6 +93,6 @@
     algin="left"
     alt="Github Stats"
     height="200"
-    style="margin-left: 10px"
+    style="margin-left: 10px; padding-top: 10px"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeBarbosanxt&show_icons=truet&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=5"    
 /> 
