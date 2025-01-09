@@ -3,8 +3,8 @@
 
 **`Estudante de Sistemas Embarcados`**
 <p align="left">
-    <a href="[www.linkedin.com/in/felipe-barbosa-bbsnxt](https://www.linkedin.com/in/felipe-barbosa-bbsnxt/)">
-        <img alt="linkedin" title="Meu linkedin!" src="[https:](https://www.linkedin.com/in/felipe-barbosa-bbsnxt/)//img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <a href="https://www.linkedin.com/in/felipe-barbosa-bbsnxt/">
+        <img alt="linkedin" title="Meu linkedin!" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a> 
 </p>
 
