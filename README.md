@@ -1,7 +1,7 @@
 
 # Felipe Barbosa
 
-**`Estudante de Sistemas Embarcados`**
+**`Estudante de Tecnologia em Sistemas Embarcados`**
 <p align="left">
     <a href="https://www.linkedin.com/in/felipe-barbosa-bbsnxt/" target="_blank">
         <img alt="linkedin" title="Meu linkedin!" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
