@@ -87,11 +87,11 @@
     alt="Github Stats"
     height="200"
     style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=felipeBarbosanxt&theme=dracula"    
+    src="https://github-readme-stats.vercel.app/api?username=felipeBarbosanxt&theme=dracula&include_all_commits-true"    
 /> 
 <img 
     algin="left"
-    alt="Github Stats"
+    alt="Github Status"
     height="200"
     style="margin-left: 10px; padding-top: 10px"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeBarbosanxt&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=6"    
